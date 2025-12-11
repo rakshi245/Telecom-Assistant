@@ -1,0 +1,7 @@
+telecom_assistant\venv
+telecom_assistant\agents\__pycache__
+telecom_assistant\config\__pycache__
+telecom_assistant\data\vector_store
+telecom_assistant\orchestration\__pycache__
+telecom_assistant\utils\__pycache__
+telecom_assistant\.env
